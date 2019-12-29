@@ -1,1 +1,1 @@
-{"versionCode": "-", "version": "-", "changelog": "-", "date": "-"}
+{"versionCode": "1076", "version": "1.0-beta-build-1073", "changelog": "- New update API\n- Now you can fetch and write comments\n- Comments are unified, must login from telegram account!\n\n--> WIPE APP DATA IS RECOMMENDED AFTER UPDATE", "date": "-"}
